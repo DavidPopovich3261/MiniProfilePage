@@ -1,0 +1,24 @@
+.Student{
+    background-color: purple;
+}
+
+.Teacher{
+    background-color: blue;
+}
+
+.Friend{
+    background-color: green;
+}
+
+button{
+    padding: 8px;
+    color: white;
+    opacity: 0.8;
+}
+button:focus{
+    border:1px solid black;
+}
+
+button:hover{
+    opacity: 1;
+}
